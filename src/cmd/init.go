@@ -21,7 +21,7 @@ package cmd
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/AlecAivazis/survey/v2"
+	"gopkg.in/AlecAivazis/survey.v1"
 	"github.com/mbndr/figlet4go"
 	"github.com/spf13/cobra"
 	"io/ioutil"

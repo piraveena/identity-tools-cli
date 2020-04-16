@@ -1,0 +1,10 @@
+package: .
+import:
+- package: github.com/mbndr/figlet4go
+- package: github.com/mitchellh/go-homedir
+- package: github.com/spf13/cobra
+- package: github.com/spf13/viper
+- package: github.com/piraveena/identity-tools-cli
+  subpackages:
+  - src/cmd
+- package: gopkg.in/AlecAivazis/survey.v1

@@ -20,7 +20,7 @@ package main
 
 import (
 	"fmt"
-	"iamctl/cmd"
+	"github.com/piraveena/identity-tools-cli/src/cmd"
 	"os"
 )
 
